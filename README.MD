@@ -4,7 +4,7 @@ A robust, secure, and logically structured backend system for a Finance Dashboar
 
 ## 🌐 Live API URL
 
-**Base URL:** [.com](.com)
+**Base URL:** [https://finance-y23w.onrender.com](https://finance-y23w.onrender.com)
 
 > **Note:** Since this is hosted on Render's free tier, the first request might take 30-50 seconds to wake up the server. Please be patient!
 
